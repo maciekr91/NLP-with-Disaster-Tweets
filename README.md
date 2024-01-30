@@ -1,4 +1,6 @@
-# NLP-with-Disaster-Tweets
+# Natural Language Processing with Disaster Tweets
+
+<img src="image.png" width="1000" height="500">
 
 ## General info
 
